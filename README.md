@@ -2,7 +2,11 @@
 # Generic-Auto-Scraping
 
 Generic-Auto-Scraping
-This project is about Building an Amazon Generic Auto Scraper. Auto Scrapers are a smart, fast and automated web scrapping methods using python, and the purpose of this project is to make scraping easy by getting the url or the html contents of the Amazon web page
+These projects are about Building a Generic Auto Scraper. Auto Scrapers are a smart, fast and automated web scrapping methods using python, and the purpose of this project is to make scraping easy by getting the url or the html contents of the web pages. 
+webscraping projecs: 
+1. Building Amazon auto scrapper
+2. Indian Job board data scraping automation with python
+
 ## Installation
 
 These are the libraries used in this project
